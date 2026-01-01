@@ -14,3 +14,5 @@ echo "tanggal sekarang adalah: $tanggal_sekarang"
 
 echo "contoh penggunaan escape char"
 echo "saya mempunyai quote: \"PHP (Programmer Harus Python)\""
+# \n <- newline
+# \t <- tabulation

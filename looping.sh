@@ -13,7 +13,7 @@
 #   ((angka++))
 # done
 
-echo "catak angka 1 hingga 10"
+echo "cetak angka 1 hingga 10"
 angka=1
 
 until [ $angka -gt 10 ]; do
